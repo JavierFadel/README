@@ -1,3 +1,8 @@
+**This Week I Spent My Time On**
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 Blending software engineering and design to create functional and visually engaging digital solutions.  
 
 Work spans frontend and backend development, system architecture, and creative experimentation.  
