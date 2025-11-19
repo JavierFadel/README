@@ -18,6 +18,6 @@ jobs:
           SHOW_EDITORS: "true"
           SHOW_PROJECTS: "false"
           SHOW_TIMEZONE: "false"
-          SHOW_DAYS: "7"
+          # SHOW_DAYS: "7"
           SHOW_LANGUAGE: "true"
-          SYMBOL_STYLE: "round"
+          # SYMBOL_STYLE: "round"
