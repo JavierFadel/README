@@ -1,7 +1,7 @@
 **This Week I Spent My Time On**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,17 +42,17 @@ Sunday                   27 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 hrs 41 mins       █████████████░░░░░░░░░░░░   51.46 % 
-Rust                     2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.94 % 
-Prisma                   1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Go                       1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+TypeScript               11 hrs 26 mins      ████████████████░░░░░░░░░   64.73 % 
+Rust                     2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Prisma                   1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+Go                       1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+JSON                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  17 hrs 41 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      17 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -72,7 +72,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierFadel/JavierFadel/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2025 01:43:12 UTC
+ Last Updated on 23/11/2025 02:00:28 UTC
 <!--END_SECTION:waka-->
 
 Blending software engineering and design to create functional and visually engaging digital solutions.  
