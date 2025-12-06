@@ -1,7 +1,7 @@
 **This Week I Spent My Time On**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-47%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,17 +42,17 @@ Sunday                   27 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               11 hrs 40 mins      ███████████████████████░░   91.47 % 
-JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-TSConfig                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-Prisma                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+TypeScript               10 hrs 19 mins      ████████████████████████░   94.24 % 
+JSON                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Markdown                 8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Prisma                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+C#                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 46 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -72,7 +72,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierFadel/JavierFadel/main/assets/bar_graph.png)
 
 
- Last Updated on 05/12/2025 01:52:03 UTC
+ Last Updated on 06/12/2025 01:45:18 UTC
 <!--END_SECTION:waka-->
 
 Blending software engineering and design to create functional and visually engaging digital solutions.  
