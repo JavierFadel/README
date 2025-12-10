@@ -1,7 +1,7 @@
 **This Week I Spent My Time On**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-48%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%203%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,17 +42,15 @@ Sunday                   27 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 54 mins        ███████████████████████░░   90.32 % 
-Prisma                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-C#                       2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+TypeScript               1 hr 54 mins        ███████████████████████░░   92.62 % 
+Prisma                   6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 7 mins        █████████████████████████   100.00 % 
+VS Code                  2 hrs 3 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 7 mins        █████████████████████████   100.00 % 
+Mac                      2 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -72,7 +70,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierFadel/JavierFadel/main/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2025 01:51:32 UTC
+ Last Updated on 10/12/2025 01:53:19 UTC
 <!--END_SECTION:waka-->
 
 Blending software engineering and design to create functional and visually engaging digital solutions.  
