@@ -1,7 +1,7 @@
 **This Week I Spent My Time On**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-79%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-83%20hrs-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -42,17 +42,17 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               6 hrs 26 mins       ██████████████░░░░░░░░░░░   57.80 % 
-Markdown                 1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Go                       1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-YAML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
+TypeScript               6 hrs 39 mins       ████████████████░░░░░░░░░   62.34 % 
+Go                       1 hr 16 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 % 
+Markdown                 1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+YAML                     49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Bash                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  10 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      11 hrs 9 mins       █████████████████████████   100.00 % 
+Mac                      10 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -72,7 +72,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierFadel/JavierFadel/main/assets/bar_graph.png)
 
 
- Last Updated on 09/01/2026 01:58:41 UTC
+ Last Updated on 10/01/2026 01:55:00 UTC
 <!--END_SECTION:waka-->
 
 Blending software engineering and design to create functional and visually engaging digital solutions.  
