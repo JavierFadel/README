@@ -1,7 +1,7 @@
 **This Week I Spent My Time On**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -42,17 +42,17 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.86 % 
-Markdown                 1 hr 50 mins        ███████░░░░░░░░░░░░░░░░░░   27.57 % 
-Prisma                   1 hr 7 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-Python                   53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Markdown                 1 hr 26 mins        █████████████░░░░░░░░░░░░   52.45 % 
+Python                   53 mins             ████████░░░░░░░░░░░░░░░░░   32.68 % 
+PHP                      16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.12 % 
+HTML                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 41 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 44 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 41 mins       █████████████████████████   100.00 % 
+Mac                      2 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -72,7 +72,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierFadel/JavierFadel/main/assets/bar_graph.png)
 
 
- Last Updated on 21/01/2026 02:01:44 UTC
+ Last Updated on 22/01/2026 02:02:37 UTC
 <!--END_SECTION:waka-->
 
 Blending software engineering and design to create functional and visually engaging digital solutions.  
