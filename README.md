@@ -1,7 +1,7 @@
 **This Week I Spent My Time On**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-120%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -42,17 +42,17 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               4 hrs 26 mins       ███████████████████░░░░░░   77.77 % 
-PHP                      30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Prisma                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-SCSS                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+TypeScript               4 hrs 33 mins       ███████████████████░░░░░░   74.26 % 
+PHP                      48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+HTML                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+Prisma                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+SCSS                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -72,7 +72,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierFadel/JavierFadel/main/assets/bar_graph.png)
 
 
- Last Updated on 13/02/2026 02:34:43 UTC
+ Last Updated on 14/02/2026 02:15:40 UTC
 <!--END_SECTION:waka-->
 
 Blending software engineering and design to create functional and visually engaging digital solutions.  
