@@ -42,17 +42,17 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 27 mins       ███████████████████░░░░░░   75.58 % 
-PHP                      32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-Prisma                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+TypeScript               2 hrs 30 mins       ███████████████████░░░░░░   75.93 % 
+PHP                      32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Prisma                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 14 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 17 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -72,7 +72,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierFadel/JavierFadel/main/assets/bar_graph.png)
 
 
- Last Updated on 15/02/2026 02:34:51 UTC
+ Last Updated on 16/02/2026 02:30:32 UTC
 <!--END_SECTION:waka-->
 
 Blending software engineering and design to create functional and visually engaging digital solutions.  
