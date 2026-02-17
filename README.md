@@ -1,9 +1,9 @@
 **This Week I Spent My Time On**
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-121%20hrs%204%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,17 +42,17 @@ Sunday                   38 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 30 mins       ███████████████████░░░░░░   75.93 % 
-PHP                      32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Prisma                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-CSS                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+TypeScript               3 hrs 25 mins       █████████████████░░░░░░░░   69.92 % 
+Markdown                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
+PHP                      34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 17 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 17 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -72,7 +72,7 @@ Rust                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JavierFadel/JavierFadel/main/assets/bar_graph.png)
 
 
- Last Updated on 16/02/2026 02:30:32 UTC
+ Last Updated on 17/02/2026 02:28:10 UTC
 <!--END_SECTION:waka-->
 
 Blending software engineering and design to create functional and visually engaging digital solutions.  
